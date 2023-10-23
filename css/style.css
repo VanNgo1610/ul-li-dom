@@ -49,3 +49,6 @@ li {
 	border-top: 1px solid rgb(194, 194, 251);
 	border-bottom: 1px solid blue;
 }
+
+a:link {color: white}
+a:visited {color: gray}
